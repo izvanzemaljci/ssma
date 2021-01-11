@@ -9,3 +9,7 @@
   width: 500px;
   margin: auto;
 }
+
+.ui.button:focus {
+  background-color: #babbbc;
+}
