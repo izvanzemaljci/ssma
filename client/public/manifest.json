@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ssma",
+  "name": "simple social media app",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://i.pinimg.com/originals/a5/85/68/a5856830a0736e2ab2b571101fb275a8.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://i.pinimg.com/originals/a5/85/68/a5856830a0736e2ab2b571101fb275a8.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://i.pinimg.com/originals/a5/85/68/a5856830a0736e2ab2b571101fb275a8.png",
       "type": "image/png",
       "sizes": "512x512"
     }
